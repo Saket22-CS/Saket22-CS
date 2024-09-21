@@ -22,6 +22,7 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering at Veer Bah
 - Mastering web development techniques.
 - Learning Python and C++ for robust web applications.
 - Enhancing my understanding of generative AI and data analysis.
+- 🌱 Learning and implementing Data Structures and Algorithms (DSA) in C++.
 
 ### 🚀 Projects
 - Developed several web projects using HTML, CSS, and JavaScript, including an Amazon clone.
