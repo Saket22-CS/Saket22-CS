@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saket Chaudhary</h1>
-<h3 align="center">A passionate web developer and problem solver</h3>
+<h3 align="center">A passionate web developer, problem solver, and aspiring software engineer</h3>
 
 <p align='center'><img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" alt="Saket Chaudhary" /></p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**  
+- 🔭 I’m currently working on **Data Structures and Algorithms and Machine Learning projects**  
 - 🌱 I’m learning **Python, C++, UI/UX design, and full-stack development**
+- 🚀 My goal is to become a **software engineer**, contributing to innovative solutions that make a difference.
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Saket22-CS)
-- 📫 How to reach me: **saketrishu64821@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -114,15 +114,16 @@ Explore more about the project, including a detailed video, on my [LinkedIn prof
 
 <h3 align="left">Certifications:</h3>
 
-- Career Essentials in Software Development | Microsoft and LinkedIn Learning
-- Career Essentials in Data Analysis | Microsoft and LinkedIn Learning
-- Google Gen AI Study Jam 2024 | Google
-- Web Development Fundamentals | IBM
-- Artificial Intelligence Fundamentals | IBM
-- Introduction to Cloud Computing | Simplilearn
-- Cybersecurity Fundamentals | IBM
-- GitHub Professional Certificate | Microsoft and LinkedIn Learning
-- Data Analytics Workshop Certificate | TechTip24
+1. Career Essentials in Software Development | Microsoft and LinkedIn Learning
+2. Career Essentials in Data Analysis | Microsoft and LinkedIn Learning
+3. Google Gen AI Study Jam 2024 | Google
+4. Web Development Fundamentals | IBM
+5. J.P. Morgan - Software Engineering Job Simulation | Forage
+6. Google Cloud Cybersecurity Certificate | Google
+7. Cybersecurity Fundamentals | IBM
+8. GitHub Professional Certificate | Microsoft and LinkedIn Learning
+9. Data Analytics Workshop Certificate | TechTip24
+10. Google Analytics Certification | Google Digital Academy (Skillshop)
 
 <h3 align="left">What I’m Currently Learning:</h3>
 
