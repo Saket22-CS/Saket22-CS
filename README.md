@@ -25,6 +25,15 @@
   <a href="https://www.codechef.com/users/saket_22cs" target="blank">
     <img align="center" src="https://img.shields.io/badge/CodeChef-%23385a7c.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" height="30" width="80" />
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100062095557166" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://x.com/_rishu_22" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
+  </a>
+  <a href="https://linktr.ee/Saket_Chaudhary" target="blank">
+  <img src="https://img.shields.io/badge/Linktree-%23ffcc00.svg?&style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree Badge">
+  </a>
 </p>
 
   
@@ -56,6 +65,25 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/> 
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+  <img src="https://tse1.mm.bing.net/th?id=OIP.6INpILSfB6MhnEYHlvEN4QHaG4&pid=Api&P=0&h=180" alt="Excel" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ibm.com/cloud/machine-learning" target="_blank" rel="noreferrer"> 
+    <img src="https://www.pngall.com/wp-content/uploads/15/Machine-Learning-PNG-Image-File.png" alt="Machine Learning" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.tableau.com/favicon.ico" alt="Tableau" width="40" height="40"/> 
   </a>
 </p>
 
