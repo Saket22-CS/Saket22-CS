@@ -114,35 +114,76 @@
 
 <h3 align="left">Projects:</h3>
 
-- **CodeSoft UI/UX Design Intern**  
-Explore more about the project, including a detailed video, on my [LinkedIn profile](https://www.linkedin.com/in/saket-chaudhary/).
+- **FutureCart: AI-Driven Demand Prediction for Smarter Retail**  
+  Developed a demand forecasting model using time series analysis, multivariate regression, and Google Analytics KPIs to optimize inventory management and marketing efficiency.
 
-  **TASK 01: Mobile App Signup Flow**  
-  Designing a seamless mobile app signup flow is crucial for user onboarding. This task focuses on creating an intuitive and efficient signup process, ensuring that users can easily create accounts while gathering essential information. The goal is to balance simplicity with the collection of necessary data to provide a smooth entry point into the app experience.
+- **Blockchain-Based Land Registry System**  
+  Built a secure and transparent land registry system using blockchain technology, leveraging Ethereum, Solidity, Truffle, and Ganache. [GitHub Repo](https://github.com/Saket22-CS/Blockchain-Land-Registry)
 
-  **TASK 02: Restaurant Menu**  
-  This task involves designing a restaurant menu that excels in both aesthetics and usability. A well-crafted menu should not only be visually appealing but also easy to navigate, helping customers quickly find the dishes they desire. The aim is to create an engaging menu that enhances the dining experience and encourages customers to explore more options.
+- **CodeSoft UI/UX Design Intern Projects**  
+  Explore more about the project, including a detailed video, on my [LinkedIn profile](https://www.linkedin.com/in/saket-chaudhary/).  
+  - **TASK 01:** Mobile App Signup Flow  
+  - **TASK 02:** Restaurant Menu  
+  - **TASK 03:** E-Commerce Website  
 
-  **TASK 03: E-Commerce Website**  
-  Creating an effective e-commerce website involves designing an interface that is both attractive and user-friendly. This project focuses on building an online store that simplifies the shopping experience, making it easy for customers to locate products and encouraging them to complete purchases.
+- **AI-Powered Chatbot Using NLP**  
+  Designed a conversational AI chatbot for customer support, leveraging NLP techniques and machine learning algorithms.
 
-  Image Previews: Available on my LinkedIn.
+- **Graphical Applications (Oasis Infobyte Internship):**  
+  - **BMI Calculator** with user-friendly features and data visualization.  
+  - **Advanced Password Generator** with GUI for customizable password complexity.  
+  - **Weather App** with real-time weather updates and visual elements.
+
+---
 
 <h3 align="left">Certifications:</h3>
 
-1. Career Essentials in Software Development | Microsoft and LinkedIn Learning
-2. Career Essentials in Data Analysis | Microsoft and LinkedIn Learning
-3. Google Gen AI Study Jam 2024 | Google
-4. Web Development Fundamentals | IBM
-5. J.P. Morgan - Software Engineering Job Simulation | Forage
-6. Google Cloud Cybersecurity Certificate | Google
-7. Cybersecurity Fundamentals | IBM
-8. GitHub Professional Certificate | Microsoft and LinkedIn Learning
-9. Data Analytics Workshop Certificate | TechTip24
-10. Google Analytics Certification | Google Digital Academy (Skillshop)
+1. Career Essentials in Software Development | Microsoft and LinkedIn Learning  
+2. Career Essentials in Data Analysis | Microsoft and LinkedIn Learning  
+3. Google Gen AI Study Jam 2024 | Google  
+4. Web Development Fundamentals | IBM  
+5. J.P. Morgan - Software Engineering Job Simulation | Forage  
+6. Google Cloud Cybersecurity Certificate | Google  
+7. Cybersecurity Fundamentals | IBM  
+8. GitHub Professional Certificate | Microsoft and LinkedIn Learning  
+9. Data Analytics Workshop Certificate | TechTip24  
+10. Google Analytics Certification | Google Digital Academy (Skillshop)  
+
+---
 
 <h3 align="left">What I’m Currently Learning:</h3>
 
-- Mastering Data Structures and Algorithms (DSA) in C++.
-- Enhancing my understanding of AI and cloud computing technologies.
-- Exploring advanced web development techniques using full-stack tools.
+- Mastering **Data Structures and Algorithms (DSA)** in C++.  
+- Enhancing my understanding of **AI and Cloud Computing technologies**.  
+- Exploring advanced **Web Development** techniques using full-stack tools.  
+
+---
+
+<h3 align="left">Technical Skills:</h3>
+
+- **Programming Languages:** Python, C++, Java, JavaScript, SQL, Solidity  
+- **Web Development:** HTML, CSS, React.js, Node.js, MongoDB, Firebase, AngularJS, PHP  
+- **Machine Learning & AI:** TensorFlow, Scikit-Learn, Pandas, NumPy, NLP, Time Series Forecasting  
+- **Cybersecurity:** Google Cloud Cybersecurity, IBM SkillsBuild Program  
+- **Blockchain:** Ethereum, Solidity, Truffle, Ganache, Smart Contracts  
+- **Tools:** Git, Docker, AWS, Google Cloud, Jupyter Notebook  
+
+---
+
+<h3 align="left">Achievements:</h3>
+
+- 🏆 **LeetCode 50 Days Badge:** Solved at least one problem every day for 50 consecutive days.  
+- 💡 Active **open-source contributor** (special thanks to Sanjay Viswanathan for fostering a supportive community).  
+- 🎓 Successfully completed multiple internships and live projects, including at **Infosys Springboard, AICTE, IBM, and more.**  
+
+---
+
+<h3 align="left">Get in Touch:</h3>
+
+- 📧 **Email:** [saketrishu64821@gmail.com](mailto:saketrishu64821@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/saket-chaudhary22](https://www.linkedin.com/in/saket-chaudhary/)  
+- 💻 **GitHub:** [github.com/Saket22-CS](https://github.com/Saket22-CS)  
+
+---
+
+<p align="center">"Passionate about continuous learning, solving real-world problems, and driving technological innovation!"</p>
