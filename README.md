@@ -112,30 +112,6 @@
 <!-- General GitHub Stats for Saket Chaudhary -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saket22-CS&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="Saket Chaudhary's GitHub Contributions" /></p>
 
-<h3 align="left">Projects:</h3>
-
-- **FutureCart: AI-Driven Demand Prediction for Smarter Retail**  
-  Developed a demand forecasting model using time series analysis, multivariate regression, and Google Analytics KPIs to optimize inventory management and marketing efficiency.
-
-- **Blockchain-Based Land Registry System**  
-  Built a secure and transparent land registry system using blockchain technology, leveraging Ethereum, Solidity, Truffle, and Ganache. [GitHub Repo](https://github.com/Saket22-CS/Blockchain-Land-Registry)
-
-- **CodeSoft UI/UX Design Intern Projects**  
-  Explore more about the project, including a detailed video, on my [LinkedIn profile](https://www.linkedin.com/in/saket-chaudhary/).  
-  - **TASK 01:** Mobile App Signup Flow  
-  - **TASK 02:** Restaurant Menu  
-  - **TASK 03:** E-Commerce Website  
-
-- **AI-Powered Chatbot Using NLP**  
-  Designed a conversational AI chatbot for customer support, leveraging NLP techniques and machine learning algorithms.
-
-- **Graphical Applications (Oasis Infobyte Internship):**  
-  - **BMI Calculator** with user-friendly features and data visualization.  
-  - **Advanced Password Generator** with GUI for customizable password complexity.  
-  - **Weather App** with real-time weather updates and visual elements.
-
----
-
 <h3 align="left">Certifications:</h3>
 
 1. Career Essentials in Software Development | Microsoft and LinkedIn Learning  
