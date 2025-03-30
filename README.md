@@ -112,6 +112,8 @@
 <!-- General GitHub Stats for Saket Chaudhary -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saket22-CS&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="Saket Chaudhary's GitHub Contributions" /></p>
 
+---
+
 <h3 align="left">Certifications:</h3>
 
 1. Career Essentials in Software Development | Microsoft and LinkedIn Learning  
