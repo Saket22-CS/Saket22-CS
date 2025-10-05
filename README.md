@@ -67,7 +67,7 @@
 **Tech Stack:** 🟣 React.js | ⚡ Node.js | 🌐 TailwindCSS | 💠 ShadCN UI | 🟢 MongoDB  
 - Full-stack platform for practicing & showcasing coding projects  
 - Features: Dynamic project showcase, live GitHub integration, portfolio-ready interface  
-- [Repository](https://github.com/Saket22-CS/codecraft-saas)  
+- [Live Demo](https://codecraft-saas.vercel.app/) | [Repository](https://github.com/Saket22-CS/codecraft-saas)  
 
 ### 📄 RESUMIND – AI-Powered Resume Analyzer  
 ![AI/ML](https://img.shields.io/badge/Category-AI/ML-purple?style=flat-square)  
@@ -81,20 +81,20 @@
 **Tech Stack:** ⚛️ Next.js 14 | 🟦 TypeScript | 🌐 Tailwind CSS | 🔐 Clerk | 🎥 Stream API  
 - Zoom-like platform with authentication, video conferencing, chat, recording, personal rooms  
 - Fully responsive and serverless architecture  
-- [Repository](https://github.com/Saket22-CS/Video-Conferencing-App)  
+- [Live Demo](https://video-conferencing-app-kohl.vercel.app/) | [Repository](https://github.com/Saket22-CS/Video-Conferencing-App)  
 
 ### 💬 Chatty – Real-Time Full Stack Chat App  
 ![Web](https://img.shields.io/badge/Category-Web-blue?style=flat-square)  
 **Tech Stack:** 🟢 MongoDB | ⚡ Node.js | ⚛️ React.js | ☁️ Socket.IO | 🌐 TailwindCSS + DaisyUI | 🔒 JWT Authentication  
 - Real-time chat app with text & image sharing, 32+ dynamic UI themes  
-- [Repository](https://github.com/Saket22-CS/fullstack-chat-app)  
+- [Live Demo](https://fullstack-chat-app-rtx0.onrender.com/) | [Repository](https://github.com/Saket22-CS/fullstack-chat-app)  
 
 ### 💬 PrepWise – Full-Stack Chat Application  
 ![Web](https://img.shields.io/badge/Category-Web-blue?style=flat-square)  
 **Tech Stack:** 🟢 MongoDB | ⚡ Node.js | ⚛️ React.js | ☁️ Socket.IO | 🌐 TailwindCSS  
 - Real-time chat with private & group messaging, typing indicators, responsive UI  
 - Deployed on Render for production-ready performance  
-- [Repository](https://github.com/Saket22-CS/Ai_Mock_Interview)  
+- [Live Demo](https://ai-mock-interview-puce-tau.vercel.app/) | [Repository](https://github.com/Saket22-CS/Ai_Mock_Interview)  
 
 ---
 
@@ -128,13 +128,18 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saket-chaudhary22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/saket-chaudhary22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Saket22-CS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.leetcode.com/Saket22-CS" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/Saket22-CS" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://twitter.com/Saket22_CS" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/Saket22_CS" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://leetcode.com/u/FKnzDk3N9J/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/sritadevi1988" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://www.geeksforgeeks.org/user/saketrishu22/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://x.com/_rishu_22" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/_rishu.22?igsh=MTF2bjUyYzM5ZHVsag==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linktr.ee/Saket_Chaudhary" target="blank">
+  <img src="https://img.shields.io/badge/Linktree-%23ffcc00.svg?&style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree Badge">
+  </a>
 </p>
+
 
 ---
 
