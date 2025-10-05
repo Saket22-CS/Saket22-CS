@@ -28,6 +28,12 @@
 
 ## 💼 Professional Experience
 
+**Infosys Springboard** | [Oct 2024 - Dec 2024]  
+*AI Intern (FutureCart: AI-Driven Demand Prediction)* | Remote  
+• Built AI-driven demand forecasting system using time series analysis and multivariate regression  
+• Integrated KPIs and business insights for smarter inventory & marketing decisions  
+• Showcased ability to apply ML to real-world business problems  
+
 **CDAC, Noida** | [Add Duration]  
 *Cybersecurity Intern (Ethical Hacking & Penetration Testing)* | On-site  
 • Hands-on experience with Security Onion, Windows Event Logs, Kibana, Suricata, CyberChef  
@@ -51,12 +57,6 @@
 • Built Blockchain-based Land Registry system using Ethereum, Solidity, Truffle, Ganache  
 • Hands-on experience with Smart Contracts, DApps, and secure decentralized systems  
 • Delivered real-world blockchain solutions demonstrating scalability and security  
-
-**Infosys Springboard** | [Add Duration]  
-*AI Intern (FutureCart: AI-Driven Demand Prediction)* | Remote  
-• Built AI-driven demand forecasting system using time series analysis and multivariate regression  
-• Integrated KPIs and business insights for smarter inventory & marketing decisions  
-• Showcased ability to apply ML to real-world business problems  
 
 ---
 
