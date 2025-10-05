@@ -34,25 +34,25 @@
 • Integrated KPIs and business insights for smarter inventory & marketing decisions  
 • Showcased ability to apply ML to real-world business problems  
 
-**CDAC, Noida** | [Add Duration]  
+**CDAC, Noida** | [Jul 2025 - Aug 2025]  
 *Cybersecurity Intern (Ethical Hacking & Penetration Testing)* | On-site  
 • Hands-on experience with Security Onion, Windows Event Logs, Kibana, Suricata, CyberChef  
 • Conducted penetration testing and threat analysis for real-world systems  
 • Developed skills in Digital Forensics, Cybersecurity monitoring, and threat detection  
 
-**IBM** | [Add Duration]  
+**IBM** | [Aug 2025 - Sep 2025]  
 *AI & Cloud Intern* | Remote  
 • Delivered AI & Cloud Computing projects aligned with UN SDG 3.1  
 • Worked with IBM Cloud, Watson Studio, Python, and Data Visualization  
 • Applied practical problem-solving in AI, ML, and data analytics  
 
-**TheSmartBridge** | [Add Duration]  
+**TheSmartBridge** | [Jun 2025 - Aug 2025]  
 *Generative AI Intern* | Remote  
 • Specialized in Generative AI with Google Gemini, Vertex AI, and Streamlit  
 • Explored Responsible AI, prompt engineering, and MLOps  
 • Delivered AI-powered deployment solutions for practical projects  
 
-**Connecting Dreams Foundation** | [Add Duration]  
+**Connecting Dreams Foundation** | [Jan 2025 - Feb 2025]  
 *Blockchain Technology Intern* | Remote  
 • Built Blockchain-based Land Registry system using Ethereum, Solidity, Truffle, Ganache  
 • Hands-on experience with Smart Contracts, DApps, and secure decentralized systems  
