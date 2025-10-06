@@ -135,9 +135,7 @@
   <a href="https://www.geeksforgeeks.org/user/saketrishu22/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   <a href="https://x.com/_rishu_22" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://www.instagram.com/_rishu.22?igsh=MTF2bjUyYzM5ZHVsag==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linktr.ee/Saket_Chaudhary" target="blank">
-  <img src="https://img.shields.io/badge/Linktree-%23ffcc00.svg?&style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree Badge">
-  </a>
+  <a href="https://linktr.ee/Saket_Chaudhary" target="blank"><img src="https://img.shields.io/badge/Linktree-%23ffcc00.svg?&style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree Badge"></a>
 </p>
 
 
