@@ -109,7 +109,7 @@
 **Aspire Leaders Program (Harvard Faculty)** – 2025 Cohort  
 - Global leadership program with 40+ hours of training & community project on AI-powered learning  
 
-**LinkedIn Learning Streak 2025** – 200+ Days  
+**LinkedIn Learning Streak 2025** – 365+ Days  
 - Continuous learning streak in AI, ML, Cybersecurity, and Cloud  
 
 ---
