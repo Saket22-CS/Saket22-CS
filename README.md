@@ -26,9 +26,9 @@
   <a href="mailto:saketrishu64821@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1EGNVluvSOZ_HcX7qugXWQUSLbXTlR0vy/view?usp=sharing" target="_blank">
+  <!-- <a href="https://drive.google.com/file/d/1EGNVluvSOZ_HcX7qugXWQUSLbXTlR0vy/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-Download-A78BFA?style=for-the-badge&labelColor=0a0a0f" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
