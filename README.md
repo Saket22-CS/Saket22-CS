@@ -316,7 +316,7 @@ const saket = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saket22-CS&theme=tokyonight&hide_border=true&background=0a0a0f&ring=6EE7F7&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=7a7a9a" />
+  <img src="https://streak-stats.demolab.com/?user=Saket22-CS&theme=tokyonight&hide_border=true&background=0a0a0f&ring=6EE7F7&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=7a7a9a" />
 </p>
 
 <p align="center">
