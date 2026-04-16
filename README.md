@@ -328,7 +328,7 @@ const saket = {
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saket22-CS&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy-gamma.vercel.app/?username=Saket22-CS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
