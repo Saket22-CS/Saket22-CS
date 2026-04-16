@@ -323,6 +323,10 @@ const saket = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saket22-CS&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0a0f&color=6EE7F7&line=A78BFA&point=F472B6&custom_title=Contribution%20Activity" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saket22-CS&theme=tokyonight" width="75%" />
+</p>
+
 ---
 
 ## 🏅 GitHub Trophies
