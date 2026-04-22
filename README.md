@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <a href="https://saket-chaudhary.vercel.app" target="_blank">
+  <a href="https://saket-chaudhary.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-V2.0_Live-6EE7F7?style=for-the-badge&labelColor=0a0a0f" />
   </a>
   <a href="https://linkedin.com/in/saket-chaudhary22" target="_blank">
@@ -19,9 +19,6 @@
   </a>
   <a href="mailto:saketrishu64821@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1EGNVluvSOZ_HcX7qugXWQUSLbXTlR0vy/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-Download-A78BFA?style=for-the-badge&labelColor=0a0a0f" />
   </a>
 </p>
 
@@ -168,7 +165,7 @@ const saket = {
       <td>Ethereum · Solidity · Smart Contracts · Truffle</td>
     </tr>
     <tr>
-      <td colspan="4" align="center"><sub>+ 13 more internships across AI/ML, Web Dev, Cloud, and Cybersecurity · <a href="https://saket-chaudhary.vercel.app">View full experience →</a></sub></td>
+      <td colspan="4" align="center"><sub>+ 13 more internships across AI/ML, Web Dev, Cloud, and Cybersecurity · <a href="https://saket-chaudhary.netlify.app">View full experience →</a></sub></td>
     </tr>
   </tbody>
 </table>
@@ -243,7 +240,7 @@ const saket = {
 </table>
 
 <p align="center">
-  <a href="https://saket-chaudhary.vercel.app">
+  <a href="https://saket-chaudhary.netlify.app">
     <img src="https://img.shields.io/badge/View_All_20_Projects_→_Portfolio-6EE7F7?style=for-the-badge&labelColor=0a0a0f" />
   </a>
 </p>
@@ -349,7 +346,7 @@ const saket = {
   <img src="https://img.shields.io/badge/HackerRank-Java_%7C_Python_%7C_JS-2EC866?style=flat-square&logo=hackerrank" />
   <img src="https://img.shields.io/badge/GSSoC_2025-Campus_Ambassador-F26522?style=flat-square" />
   <img src="https://img.shields.io/badge/Infosys_Springboard-Data_Science-0052CC?style=flat-square" />
-  <a href="https://saket-chaudhary.vercel.app"><sub>+6 more → View all certifications</sub></a>
+  <a href="https://saket-chaudhary.netlify.app"><sub>+6 more → View all certifications</sub></a>
 </p>
 
 ---
@@ -357,8 +354,8 @@ const saket = {
 ## 🌐 Portfolio V2.0
 
 <p align="center">
-  <a href="https://saket-chaudhary.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Portfolio_V2.0-93%2F100_Grade_A%2B-6EE7F7?style=for-the-badge&labelColor=0a0a0f" />
+  <a href="https://saket-chaudhary.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfolio_V2.0-94%2F100_Grade_A%2B-6EE7F7?style=for-the-badge&labelColor=0a0a0f" />
   </a>
 </p>
 
